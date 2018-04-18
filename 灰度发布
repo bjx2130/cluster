@@ -58,3 +58,5 @@
 		eureka.instance.metadata-map.lancher=${eureka.instance.instanceId}
 
 
+
+3.客户端调用时需要添加头信息 grayInstanceId=bjx-ecol
